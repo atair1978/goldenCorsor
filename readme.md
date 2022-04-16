@@ -1,4 +1,4 @@
-# golden cursor#
+# golden cursor #
 
 * Author: salah atair, Joseph Lee
 * Download [stable version][1]
@@ -28,6 +28,10 @@ Note: these gestures can be reassigned via NVDA's Input Gestures dialog under Go
 * Version 1.x and 2.x mouse position formats are incompatible.
 * To perform functions that require use of arrow keys, turn off mouse arrows first.
 * When deleting saved positions, if there are no saved positions left, positions for the application will be cleared.
+
+## Version 5.3
+
+* that version is test.
 
 ## Version 5.0
 
@@ -81,6 +85,6 @@ Note: these gestures can be reassigned via NVDA's Input Gestures dialog under Go
 
 * Initial release.
 
-[1]: https://addons.nvda-project.org/files/get.php?file=gc
+[1]: https://github.com/atair1978/goldenCursor/releases/download/v5.3/goldenCursor-5.3.nvda-addon
 
-[2]: https://addons.nvda-project.org/files/get.php?file=gc-dev
+
