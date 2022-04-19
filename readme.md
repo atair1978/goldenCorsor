@@ -31,7 +31,9 @@ Note: these gestures can be reassigned via NVDA's Input Gestures dialog under Go
 
 ## Version 5.3
 
-* that version is test.
+* A new feature was added, to jump to a position, and perform a left click at the same time.
+* To make use of this feature, you first have to assign a shortcut or a gesture to a specific position, and this is done through Saved mouse positions dialog for a certain application.
+* Pressing that shortcut in this application, will move the mouse to that position, and perform a left click on it.
 
 ## Version 5.0
 
